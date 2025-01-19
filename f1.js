@@ -6,3 +6,5 @@ function updateCounter() {
 }
 
 module.exports = updateCounter;
+
+console.log("lakshyaf2 updated it");
